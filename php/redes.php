@@ -10,6 +10,7 @@
 <body>
     
     <ul class="menu">
+         /*header*/
 		 <li><a href="index.php">Inicio</a></li>
 		 <li><a href="clips-virales.php">Clips virales</a></li>
 		 <li><a href="biografias.php">Biografias</a></li>
